@@ -20,5 +20,15 @@
       <version>3.4.2</version>
       <scope>test</scope>
     </dependency>
+	<dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+<<<<<<< HEAD
+      <version>3.6.2</version>
+=======
+      <version>3.5.2</version>
+>>>>>>> c7e1f867de34254ebb0b9ae4806302cddf4c0fdf
+      <scope>test</scope>
+    </dependency>
   </dependencies>
 </project>
